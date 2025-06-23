@@ -16,7 +16,7 @@
 - Fellowship or research-backed innovation pilots  
 
 📫 How to reach me:  
-**📧** bennamadeleine@gmail.com  
+**📧** madeleinebenna4@gmail.com  
 **🌐** [LinkedIn](https://www.linkedin.com/in/madeleine-benna/)
 
 💬 Pronouns: she/her  
