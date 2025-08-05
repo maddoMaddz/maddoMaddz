@@ -29,7 +29,7 @@
 - 🍛 [Shiva Dhaba Loyalty Analysis](https://github.com/maddoMaddz/shiva-dhaba-loyalty-analysis)  
   SPSS-driven customer segmentation project delivering actionable marketing strategies to boost loyalty and retention.
 
--🪡 [Agaati Artisan Analysis](https://github.com/maddoMaddz/agaati-artisan-analysis)  
+- 🪡 [Agaati Artisan Analysis](https://github.com/maddoMaddz/agaati-artisan-analysis)  
   Data-driven insights on artisan-made sustainable products to guide business strategy for Agaati. Includes regression models, visualizations, and marketing recommendations.
 
 - 🌊 [Tide Together – Whaleport App](https://github.com/maddoMaddz/tide-together-whaleport)  
