@@ -32,6 +32,9 @@
 - 🪡 [Agaati Artisan Analysis](https://github.com/maddoMaddz/agaati-artisan-analysis)  
   Data-driven insights on artisan-made sustainable products to guide business strategy for Agaati. Includes regression models, visualizations, and marketing recommendations.
 
+- 🍪 [Pillsbury Cookie Challenge](https://github.com/maddoMaddz/pillsbury-cookie-challenge)  
+  Consumer insights and perceptual mapping project revealing how Canadian families perceive convenience vs. authenticity in baking, with strategies to boost Pillsbury cookie sales and brand authenticity.
+
 - 🌊 [Tide Together – Whaleport App](https://github.com/maddoMaddz/tide-together-whaleport)  
   A mobile app concept for Whaleport's just energy transition using AI, GIS, and civic media to protect marine culture while advancing SDG-aligned renewable development.
 
