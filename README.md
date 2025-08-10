@@ -35,7 +35,7 @@
 - 💄 [Rougir Cosmetics Production Optimization](https://github.com/maddoMaddz/rougir-cosmetics-production-optimization)  
   Excel Solver-based linear programming model to optimize production under labor and material constraints, minimizing costs while protecting proprietary product lines.
 
-- 🍪 [Pillsbury Cookie Challenge](https://github.com/maddoMaddz/pillsbury-cookie-challenge)  
+- 🍪 [Pillsbury Cookie Challenge](https://github.com/maddoMaddz/Pillsbury-Cookie-Challenge-Consumer-Insights-Perceptual-Mapping) 
   Consumer insights and perceptual mapping project revealing how Canadian families perceive convenience vs. authenticity in baking, with strategies to boost Pillsbury cookie sales and brand authenticity.
 
 - 🌊 [Tide Together – Whaleport App](https://github.com/maddoMaddz/tide-together-whaleport)  
