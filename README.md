@@ -32,6 +32,9 @@
 - 🪡 [Agaati Artisan Analysis](https://github.com/maddoMaddz/agaati-artisan-analysis)  
   Data-driven insights on artisan-made sustainable products to guide business strategy for Agaati. Includes regression models, visualizations, and marketing recommendations.
 
+- 💄 [Rougir Cosmetics Production Optimization](https://github.com/maddoMaddz/rougir-cosmetics-production-optimization)  
+  Excel Solver-based linear programming model to optimize production under labor and material constraints, minimizing costs while protecting proprietary product lines.
+
 - 🍪 [Pillsbury Cookie Challenge](https://github.com/maddoMaddz/pillsbury-cookie-challenge)  
   Consumer insights and perceptual mapping project revealing how Canadian families perceive convenience vs. authenticity in baking, with strategies to boost Pillsbury cookie sales and brand authenticity.
 
