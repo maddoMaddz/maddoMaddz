@@ -1,19 +1,30 @@
-# 👋 Hi, I’m @maddoMaddz
+# 👋 Hi, I’m @maddoMaddz  
 
-🔍 I bridge **biotech, data analytics, and social impact** through storytelling, strategy, and smart design. I use data to surface insights that drive real-world change—from optimizing sales performance to advancing rare earth sustainability and human dignity projects.
+🎓 Recently graduated and stepping into the next chapter of my career, I bridge **biotech, data analytics, and social impact** through storytelling, strategy, and smart design.  
 
-📊 I’m currently learning:  
-- SQL & MongoDB for data querying  
-- Python for analytics workflows  
-- Tableau + Power BI for dashboard storytelling  
-- Figma for rapid app prototyping  
-- Statistical Analysis & A/B Testing for evidence-based decision making  
-- Business Process Analysis (AI automation, ESG integration, and digital transformation)
+I use data not just to analyze the past, but to spark insights that drive **real-world change** — from optimizing sales performance to advancing rare earth sustainability and community-driven innovation.  
 
-🤝 I’m looking to collaborate on:  
-- Biotech data analysis projects  
-- Community-driven tech initiatives  
-- Fellowship or research-backed innovation pilots  
+---
+
+## 🌱 What I’m Growing Into
+- Mastering **SQL & MongoDB** for powerful data querying  
+- Building analytics workflows with **Python**  
+- Designing dashboards in **Tableau + Power BI** for storytelling  
+- Experimenting with **Figma** for rapid app prototyping  
+- Exploring **A/B Testing & Statistical Analysis** for evidence-based decision-making  
+- Learning **Business Process Analysis** (AI automation, ESG integration, digital transformation)  
+
+---
+
+## 🤝 Let’s Connect On
+- **Biotech data analysis projects** where science meets strategy  
+- **Community-driven tech initiatives** that put people first  
+- **Fellowship & innovation pilots** backed by research and impact  
+
+---
+
+✨ Outside of data, I love blending creativity with problem-solving — whether that’s through writing, prototyping new ideas, or exploring how culture and technology shape each other.  
+
 
 📫 How to reach me:  
 **📧** madeleinebenna4@gmail.com  
