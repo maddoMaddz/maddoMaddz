@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @maddoMaddz  
+# 👋 Hi, I’m Maddz  
 
 🎓 Recently graduated and stepping into the next chapter of my career, I bridge **biotech, data analytics, and social impact** through storytelling, strategy, and smart design.  
 
