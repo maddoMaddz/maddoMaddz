@@ -32,7 +32,12 @@
 - 🍛 [**Shiva Dhaba Loyalty Analysis**](https://github.com/maddoMaddz/shiva-dhaba-loyalty-analysis) | *SPSS, Segmentation, Retention Strategy*  
   Designed customer segmentation models to identify loyalty drivers and deliver actionable retention strategies.  
   - **Tools:** SPSS, Regression Models  
-  - **Focus:** Customer segmentation, loyalty strategy, marketing insights  
+  - **Focus:** Customer segmentation, loyalty strategy, marketing insights
+
+- 🍿 [**Netflix Data Analysis**](https://github.com/maddoMaddz/netflix-data-analysis) | *Python, Pandas, Data Exploration*  
+  Explored Netflix’s global catalog to uncover patterns in content type, release year, ratings, and countries.  
+  - **Tools:** Python, Pandas, Google Colab  
+  - **Focus:** Data cleaning, exploratory analysis, content trends, insights storytelling  
 
 - 🪡 [**Agaati Artisan Analysis**](https://github.com/maddoMaddz/agaati-artisan-analysis) | *SQL, Regression, Tableau*  
   Delivered data-driven insights on artisan-made sustainable products to guide Agaati’s business strategy.  
